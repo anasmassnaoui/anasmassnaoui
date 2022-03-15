@@ -9,7 +9,6 @@
 
 - 👋 Hi, I’m Anas MASSNAOUI
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript with NestJs
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me on [@anasmassnaoui](https://twitter.com/anasmassnaoui)
 
