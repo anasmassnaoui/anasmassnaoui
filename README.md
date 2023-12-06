@@ -3,25 +3,26 @@
 Hello there! Welcome to my GitHub portfolio. Here you will find a collection of my projects and contributions that showcase my skills and experience as a Full Stack Developer. 
 
 ## About Me
-I am a passionate and dedicated developer with a strong focus on web and mobile app development. With a background in both frontend and backend technologies, I strive to create robust and user-friendly applications that solve real-world problems.
+Experienced software engineer with 2+ years of total experience, specializing in full-stack development with expertise in JavaScript, React, Node.js, and TypeScript. Solid background in building scalable web applications, particularly in the e-commerce and education sectors.
+
+Proficient in JavaScript, React, Node.js, TypeScript, HTML5, and CSS3. Strong problem-solving skills and experience in designing and implementing user-friendly interfaces. Familiar with agile methodologies and collaborative team environments.
 
 [![GitHub: anasmassnaoui](https://img.shields.io/github/followers/anasmassnaoui?label=follow&style=social)](https://github.com/anasmassnaoui)
 [![Linkedin: anasmassnaoui](https://img.shields.io/badge/-Anas%20MASSNAOUI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasmassnaoui)](https://www.linkedin.com/in/anasmassnaoui)
 
 ## Projects
 
-🚀 **Eksperience App** - A unique platform for celebrities and their followers, offering a range of engaging activities. 
-- [Website](https://eksperience.net/)
-- [App](https://apps.apple.com/us/app/eksperiences/id1621713479)
-
-🔥 **ASL Flurry** - A puzzle app/game for deaf individuals to learn and improve their American Sign Language skills.
-- [App](https://apps.apple.com/us/app/asl-flurry/id1659464785)
+🐝 **Number Hive** - The maths strategy game for number skills & problem solving
+- [Website](https://www.numberhive.app)
 
 💼 **Working United** - A contractor marketplace app to connect contractors with employees for short-term jobs.
 - Tech Stack: React Native
 
-🌐 **Industrial Simulation Software Web App** - Developed a web application for remote access and simultaneous usage of industrial simulation software.
-- [Video Presentation](https://www.youtube.com/watch?v=9YaesCtpjls)
+🔥 **ASL Flurry** - A puzzle app/game for deaf individuals to learn and improve their American Sign Language skills.
+- [Website](https://aslflurry.com)
+
+🚀 **Eksperience App** - A unique platform for celebrities and their followers, offering a range of engaging activities. 
+- [Website](https://eksperience.net/)
 
 ## Statistics
 
