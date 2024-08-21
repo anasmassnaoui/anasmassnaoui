@@ -1,42 +1,22 @@
-# Welcome to My Portfolio!
+# Hi, I'm Anas MASSNAOUI 👋
 
-Hello there! Welcome to my GitHub portfolio. Here you will find a collection of my projects and contributions that showcase my skills and experience as a Full Stack Developer. 
+### 🚀 Full Stack Developer | MERN Stack | React Native Expert
 
-## About Me
-Experienced software engineer with 2+ years of total experience, specializing in full-stack development with expertise in JavaScript, React, Node.js, and TypeScript. Solid background in building scalable web applications, particularly in the e-commerce and education sectors.
+Welcome to my GitHub! I am a passionate developer with extensive experience in creating and scaling web and mobile applications. I have worked on a variety of projects from building educational/productivity apps to working with complex backend APIs. I specialize in JavaScript technologies like React, React Native, Node.js, and TypeScript.
 
-Proficient in JavaScript, React, Node.js, TypeScript, HTML5, and CSS3. Strong problem-solving skills and experience in designing and implementing user-friendly interfaces. Familiar with agile methodologies and collaborative team environments.
+### 🌟 Skills & Expertise
+- **Frontend**: React, React Native, Next.js, HTML/CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, NestJS, MongoDB, REST APIs, GraphQL
+- **Cloud & DevOps**: AWS, Firebase, Docker, CI/CD Pipelines
+- **Mobile Development**: React Native, Expo
+- **Other Tools**: Git, ESLint, Webpack, Postman, Figma
 
-[![GitHub: anasmassnaoui](https://img.shields.io/github/followers/anasmassnaoui?label=follow&style=social)](https://github.com/anasmassnaoui)
-[![Linkedin: anasmassnaoui](https://img.shields.io/badge/-Anas%20MASSNAOUI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anasmassnaoui)](https://www.linkedin.com/in/anasmassnaoui)
+### 📫 How to reach me:
+- Email: anas.massnaoui@gmail.com
+- LinkedIn: [Anas MASSNAOUI](https://www.linkedin.com/in/anas-massnaoui)
 
-## Projects
+---
 
-🐝 **Number Hive** - The maths strategy game for number skills & problem solving
-- [Website](https://www.numberhive.app)
+Feel free to explore my repositories, and don't hesitate to connect or collaborate!
 
-💼 **Working United** - A contractor marketplace app to connect contractors with employees for short-term jobs.
-- Tech Stack: React Native
-
-🔥 **ASL Flurry** - A puzzle app/game for deaf individuals to learn and improve their American Sign Language skills.
-- [Website](https://aslflurry.com)
-
-🚀 **Eksperience App** - A unique platform for celebrities and their followers, offering a range of engaging activities. 
-- [Website](https://eksperience.net/)
-
-## Statistics
-
-⭐ **Contributions:** 150+
-
-🌍 **Languages:** JavaScript, TypeScript
-
-🚀 **Frameworks:** React, React Native, Node.js
-
-🔧 **Tools:** Git, VS Code, Postman
-
-🎓 **Education:** Software Developer
-
-## Contact Me
-I'm always open to exciting opportunities and collaborations. If you would like to get in touch, feel free to reach out via [email](mailto:anasmassnaoui@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anasmassnaoui).
-
-Thank you for visiting my portfolio!
+---
